@@ -5,13 +5,15 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# Data files
-*.csv
-*.tsv
-
 # Virtual environments
 venv/
 .env/
+
+# Data files (optional: large datasets)
+*.csv
+*.tsv
+*.xlsx
+*.json
 
 # IDE / editor
 .vscode/
