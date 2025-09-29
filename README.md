@@ -1,44 +1,61 @@
-# 📊 Data Science Projects Portfolio
+# 👋 Hi, I'm Bansari Maru
 
-Welcome to my data science project portfolio! This repository showcases a collection of real-world projects that apply machine learning, data analysis, and visualization techniques to solve business problems across industries.
-
-Each project is organized in its own folder with a dedicated README, dataset, notebook, and supporting visuals.
-
----
-
-## 🚗 Project 1: Salifort Motors – HR Attrition Model
-
-**Scenario**:  
-Salifort Motors, a fictional French-based manufacturer of alternative energy vehicles, conducted a global employee survey to understand factors influencing attrition.
-
-**Objective**:  
-Build a predictive model to identify employees at risk of leaving the company, using features such as department, project count, and average monthly hours.
-
-**Tech Stack**:  
-Python, pandas, scikit-learn, seaborn, matplotlib
-
-**Highlights**:
-- Data preprocessing and feature engineering
-- Logistic Regression and Random Forest models
-- ROC curve, feature importance visualization
-- Model evaluation using accuracy, precision, recall
-
-📂 [View Project Folder](./salifort-motors-attrition-model)
+🎓 M.Tech in Electronics & Communication Engineering (2014)  
+👩‍👧 Career break for family (raising kids), now actively reskilling in **Data Science & MLOps**  
+🚀 Aspiring **ML Engineer / MLOps Specialist** based in **Büdingen, Hessen, Germany**  
 
 ---
 
-## 📌 Upcoming Projects
+## 🔹 About Me  
 
-Stay tuned for more additions:
-- House Price Prediction
-- Sales Forecasting with Time Series
-- Hypothesis Testing
-- Customer segmentation 
+- Completed **Coursera Advanced Data Analysis Certification**  
+- Passionate about **Machine Learning, MLOps, and Cloud Deployment**  
+- Currently building projects in:  
+  - Model training & evaluation  
+  - Experiment tracking with **MLflow**  
+  - Deployment on **AWS Cloud**  
+- Strong foundation in Python, Data Analysis, and SQL  
+- Multilingual: English (fluent), German (B1 – Beruflich, starting B2 in December)  
+-✨ “Continuous learning and resilience are my superpowers — combining technical skills with life experience to build reliable ML systems.”  
+---
+
+## 🛠️ Tech Stack  
+
+- **Languages**: Python, SQL  
+- **Data Science**: Pandas, NumPy, Scikit-learn, Matplotlib  
+- **MLOps**: MLflow, Airflow, Docker, GitHub Actions  
+- **Cloud**: AWS (learning deployment pipelines)  
+- **Other Tools**: Jupyter, VS Code, Git  
 
 ---
 
-## 🧠 About Me
+## 📂 Featured Projects  
 
-I'm Bansari, a data science enthusiast based in Germany, passionate about turning data into actionable insights. This repo is part of my journey to build a strong portfolio and share my learning with the community.
+- [End-to-End ML Pipeline](https://github.com/yourrepo) → Model training + preprocessing 
 
-Feel free to explore, fork, or reach out!
+
+*(More projects coming soon as I learn & grow in MLOps!)*  
+
+---
+
+## 📚 Currently Learning  
+
+- **MLOps Tools**: MLflow, Docker, Airflow  
+- **AWS Cloud Deployment**  
+- **German Language**: Advancing from **B1 → B2** (starting December 2025)  
+
+---
+
+## 📫 Let's Connect  
+
+- 💼 [LinkedIn](www.linkedin.com/in/bansari-maru-84151980)  
+- 📧 bansari.galoria@gmail.com
+- 🌍 Open to opportunities in **Germany (Frankfurt region)**  
+
+
+
+
+
+
+
+
