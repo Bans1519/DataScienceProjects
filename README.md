@@ -15,7 +15,7 @@
   - Experiment tracking with **MLflow**  
   - Deployment on **AWS Cloud**  
 - Strong foundation in Python, Data Analysis, and SQL  
-- Multilingual: English (fluent), German (B1 – Beruflich, starting B2 in December)  
+- Multilingual: English (fluent), German (B2 – Beruflich) 
 -✨ “Continuous learning and resilience are my superpowers — combining technical skills with life experience to build reliable ML systems.”  
 ---
 
