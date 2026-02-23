@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+
+# Data files (optional: large datasets)
+*.csv
+*.tsv
+*.xlsx
+*.json
+
+# IDE / editor
+.vscode/
+.idea/
+
+# Logs
+*.log
